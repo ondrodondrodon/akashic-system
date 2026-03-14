@@ -30,7 +30,7 @@
     "directory": "packages/amflow-message"
   },
   "dependencies": {
-    "@akashic/amflow": "3.0.0",
+    "@akashic/amflow": "3.3.0",
     "@akashic/playlog": "3.1.0",
     "msgpack-lite": "0.1.26"
   },
